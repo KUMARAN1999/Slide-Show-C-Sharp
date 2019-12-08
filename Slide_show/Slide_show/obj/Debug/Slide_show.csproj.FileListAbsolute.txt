@@ -1,0 +1,9 @@
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\bin\Debug\Slide_show.exe
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\bin\Debug\Slide_show.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.exe
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Slide_show\Slide_show\obj\Debug\Slide_show.intro.resources
